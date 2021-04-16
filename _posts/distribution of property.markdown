@@ -5,7 +5,7 @@ subtitle: "금융권 프로젝트 투입위한 도메인지식 습득"
 categories: domain  
 tags: 금융자산배분  
 comments: true  
-header-img: 
+#header-img: 
 ---  
   
 #  금융 분야
