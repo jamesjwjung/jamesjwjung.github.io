@@ -1,11 +1,11 @@
 ---  
 layout: post  
-title: "[리뷰★] 수학의 eqweeqe모험"  
-subtitle: "철학자 이진경이 만난 천년의 수학"  
+title: "금융권 도메인 지식 공부"  
+subtitle: "금융 프로젝트 투입 대비 도메인 지식 공부"  
 categories: domain  
-tags: review book 수학의역사 철학 0 무한 기하학 대수학 집합론 해석학 역설 미적분 엄밀성 불완전성  
+tags: study  
 comments: true  
-header-img: img/review/review-book-adventures-of-math-1.png
+header-img: 
 ---  
   
 #  금융 분야
