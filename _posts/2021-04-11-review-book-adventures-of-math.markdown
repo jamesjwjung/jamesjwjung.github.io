@@ -1,9 +1,9 @@
 ---  
 layout: post  
-title: "[리뷰★] 수학의 eqweeqe모험"  
-subtitle: "철학자 이진경이 만난 천년의 수학"  
+title: "금융용어 정리"  
+subtitle: "마구잡이로 정리해본 금융용어"  
 categories: domain  
-tags: review book 수학의역사 철학 0 무한 기하학 대수학 집합론 해석학 역설 미적분 엄밀성 불완전성  
+tags: 금융 카드 은행 대출 여신 수신 신용  
 comments: true  
 header-img: img/review/review-book-adventures-of-math-1.png
 ---  
