@@ -5,7 +5,7 @@ subtitle: "마구잡이로 정리해본 금융용어"
 categories: domain  
 tags: 금융 카드 은행 대출 여신 수신 신용  
 comments: true  
-header-img: img/review/review-book-adventures-of-math-1.png
+header-img:
 ---  
   
 #  금융 분야
